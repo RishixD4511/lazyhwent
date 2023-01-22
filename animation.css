@@ -39,7 +39,7 @@ color: grey;
   width: 40%;
   margin: 0 auto;
   background: rgba(255,255,255,0.2);
-  padding: 35px;
+  padding: 20vh;
   border: 2px solid #fff;
   border-radius: 20px/50px;
   background-clip: padding-box;
@@ -71,7 +71,7 @@ color: grey;
 
 .popup {
   margin: 70px auto;
-  padding: 20px;
+  padding: 15vh;
   background: #fff;
   border-radius: 5px;
   width: 30%;
