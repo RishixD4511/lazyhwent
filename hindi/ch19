@@ -1,10 +1,10 @@
 <html>
 <Head>
 <title>LazyHW</title>
-<link rel="stylesheet" type="text/css" href="animation.css"> 
+<link rel="stylesheet" type="text/css" href="../animation.css"> 
 </head>
 <body>
-<button>Chapter- 19 बाज और साँप.</button>
+<button>Chapter- बाज और साँप.</button>
 <br>
 <br><a href="../index.html">
 <button>Go Home.</button></a>
