@@ -1,0 +1,42 @@
+<html>
+<Head>
+<title>LazyHW</title>
+<link rel="stylesheet" type="text/css" href="animation.css"> 
+</head>
+<body>
+<button>Chapter- .</button>
+<br>
+<br><a href="index.html">
+<button>Go Home.</button></a>
+<br><br><center>
+<p class="head">The story</p>
+<p class="text"></p>
+<br>
+<a href="#keyterms">
+<button>Keyterms</button>
+</a>
+<a href="#qa">
+<button>Q/A</button>
+</a>
+
+<div id="keyterms" class="overlay">
+	<div class="popup">
+		<p class="head">keyterms</p>
+		<a class="close" href="#">×</a>
+		<div class="content">
+			<a href="/hindi/ch19.html"><button>chapter - 19 बाज और साँप</button></a> 			<a><button href="hindi/ch20.html">chapter - 20 टोपी</button></a>
+		</div>
+	</div>
+</div>
+
+<div id="qa" class="overlay">
+	<div class="qa">
+		<p class="head">Q/A</p>
+		<a class="close" href="#">×</a>
+		<div class="content">
+	<img src="">
+		</div>
+	</div>
+</div>
+</body></center>
+</html>
