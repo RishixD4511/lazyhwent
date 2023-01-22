@@ -1,5 +1,6 @@
 body{
-background-image: linear-gradient(360deg, red, purple, blue)
+background-image: linear-gradient(360deg, red, purple, blue);
+font-size: 2.5vh;
 }
 button{
 font-size: 2.5vh;
